@@ -4,7 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aca0800f-70a8-43db-94ba-0b18e3ab405c" name="Changes" comment="" />
+    <list default="true" id="aca0800f-70a8-43db-94ba-0b18e3ab405c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/brand/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/brand/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/category/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/category/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/order/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/order/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/order/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/order/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/order/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/order/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/product/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/product/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/product/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/product/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/product/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/product/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/promotion/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/promotion/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/promotion/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/promotion/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/promotion/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/promotion/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/fragment/choose_image_modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/fragment/choose_image_modal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/layout/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/layout/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/shop/doi-hang.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/shop/doi-hang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/shop/lien-he.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/shop/lien-he.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/shop/post-detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/shop/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/brand/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/brand/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/category/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/category/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/order/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/order/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/order/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/order/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/order/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/order/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/product/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/product/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/product/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/product/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/product/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/product/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/promotion/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/promotion/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/promotion/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/promotion/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/promotion/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/promotion/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/layout/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/layout/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/shop/lien-he.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/shop/lien-he.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/shop/post-detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/shop/post.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,11 +58,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1681741457" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1681741456" />
+                    <option name="lastUsedInstant" value="1681746888" />
                   </RecentBranch>
                 </list>
               </option>
@@ -57,19 +88,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "F:/test/ShoesApplication",
-    "spring.configuration.checksum": "a60ba1a7a56c9e00252baebe89d62c12"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/test/ShoesApplication&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;a60ba1a7a56c9e00252baebe89d62c12&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\study\JavaTech\Shoes\Shoes\src\main\resources\static\shop\images\slider" />
